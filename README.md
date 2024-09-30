@@ -1,6 +1,6 @@
 - 👋 Hi, I’m jaehuru
-- 👀 I’m interested in Game development
-- 🌱 I’m currently learning UE5 && Game server
+- 👀 interested in Game development
+- 🌱 currently learning UE5 && Game server
 
 <!---
 jaehuru/jaehuru is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
