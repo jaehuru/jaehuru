@@ -1,3 +1,9 @@
+- jaehuru
+- Game_dev
+- C++
+- UE5
+- Game server
+
 <h2 align="left"></h2>
 
 ###
